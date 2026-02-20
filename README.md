@@ -1,4 +1,4 @@
-# 📕 AI-Generated eBook — CSS Jedi
+# 📕 AI-Generated eBook
 
 > **DIO Bootcamp project:** Creating a complete digital eBook using generative AI tools for content, imagery, and layout.
 
@@ -7,8 +7,6 @@
 ## Overview
 
 This project was developed during a **DIO (Digital Innovation One) Bootcamp** class, instructed by Felipe Aguiar. The goal was to demonstrate how Generative AI tools can be combined to produce a fully designed digital eBook — from title ideation and content writing to image generation and final layout.
-
-The result is a CSS-focused eBook with a Star Wars theme, built entirely with AI-assisted workflows.
 
 📕 **[Click here to read the eBook](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf)**
 
@@ -30,14 +28,14 @@ The result is a CSS-focused eBook with a Star Wars theme, built entirely with AI
 
 | Action | Prompt |
 |:---:|---|
-| **Title** | Create a title for an eBook about CSS. The eBook is in the programming niche, sub-niche CSS. The title must be epic and short, with a Star Wars theme. List 5 title variations. |
-| **Content** | Write eBook content focused on CSS, listing the main CSS selectors with code examples. Rules: always explain in a simple way, keep the text concise, always bring code examples in real contexts, always add a suggestive title per topic. |
+| **Title** | Create a title for an eBook SQL. The eBook is in the programming niche. |
+| **Content** | Write eBook content focused on SQL, listing the main SQL selectors with code examples. Rules: always explain in a simple way, keep the text concise, always bring code examples in real contexts, always add a suggestive title per topic. |
 
 ### MidJourney
 
 | Action | Prompt |
 |:---:|---|
-| **Cover Image** | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| **Cover Image** | 
 
 ---
 
@@ -52,7 +50,7 @@ The result is a CSS-focused eBook with a Star Wars theme, built entirely with AI
 ## Repository Structure
 
 ```
-ebook-ai-css-jedi/
+ebook-ai-sql/
 ├── assets/       # Images used in the eBook
 └── output/       # Final generated eBook (PDF)
 ```
@@ -76,13 +74,9 @@ ebook-ai-css-jedi/
 - The role of human curation in AI-assisted content production
 
 ---
-
-*Part of [Pedro Augusto's Data & AI Portfolio](https://github.com/YOUR_USERNAME)*
-
----
 ---
 
-# 📕 eBook Gerado por I.A. — CSS Jedi
+# 📕 eBook Gerado por I.A.
 
 > **Projeto de Bootcamp DIO:** Criação de um eBook digital completo usando ferramentas de IA generativa para conteúdo, imagens e layout.
 
@@ -92,7 +86,7 @@ ebook-ai-css-jedi/
 
 Este projeto foi desenvolvido durante uma aula do **Bootcamp da DIO (Digital Innovation One)**, ministrada por Felipe Aguiar. O objetivo foi demonstrar como ferramentas de IA Generativa podem ser combinadas para produzir um eBook digital totalmente elaborado — desde a criação do título e escrita do conteúdo até a geração de imagens e layout final.
 
-O resultado é um eBook sobre CSS com temática Star Wars, construído inteiramente com fluxos de trabalho assistidos por IA.
+O resultado é um eBook sobre SQL, construído inteiramente com fluxos de trabalho assistidos por IA.
 
 📕 **[Clique aqui para ler o eBook](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf)**
 
@@ -114,15 +108,14 @@ O resultado é um eBook sobre CSS com temática Star Wars, construído inteirame
 
 | Ação | Prompt |
 |:---:|---|
-| **Título** | Crie um título de um ebook sobre o tema de CSS. O ebook é do nicho de programação e o subnicho é de CSS. O título deve ser épico e curto, com temática de Star Wars. Liste 5 variações de títulos. |
-| **Conteúdo** | Faça um texto para ebook com foco em CSS, listando os principais seletores CSS com exemplos em código. Regras: explique sempre de uma maneira simples, deixe o texto enxuto, sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico. |
+| **Título** | Crie um título de um ebook sobre o tema de SQL. O ebook é do nicho de programação. O título deve ser épico e curto, com temática de Star Wars. Liste 5 variações de títulos. |
+| **Conteúdo** | Faça um texto para ebook com foco em SQL. Regras: explique sempre de uma maneira simples, deixe o texto enxuto, sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico. |
 
 ### MidJourney
 
 | Ação | Prompt |
 |:---:|---|
-| **Imagem de Capa** | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
+| **Imagem de Capa** |
 ---
 
 ## Funcionalidades
@@ -136,7 +129,7 @@ O resultado é um eBook sobre CSS com temática Star Wars, construído inteirame
 ## Estrutura do Repositório
 
 ```
-ebook-ai-css-jedi/
+ebook-ai-sql/
 ├── assets/       # Imagens utilizadas no eBook
 └── output/       # eBook final gerado (PDF)
 ```
@@ -167,7 +160,3 @@ ebook-ai-css-jedi/
   Pedro Augusto<br>
   <a href="https://www.linkedin.com/in/pedro-augusto-camargo-de-oliveira/">LinkedIn</a>
 </p>
-
----
-
-*Parte do [Portfólio de Dados & IA do Pedro Augusto](https://github.com/YOUR_USERNAME)*
